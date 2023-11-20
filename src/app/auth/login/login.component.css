@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f7f9fc;  /* Couleur de fond claire */
+}
+
+.login-container {
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre subtile pour la boîte */
+    background: white; /* Fond blanc pour le formulaire */
+    border-radius: 8px; /* Coins arrondis */
+}
+  
